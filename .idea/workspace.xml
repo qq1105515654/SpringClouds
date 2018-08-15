@@ -470,14 +470,14 @@
       <item itemvalue="Spring Boot.EurekaApplication" />
       <item itemvalue="Spring Boot.ZuulApplication" />
       <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ZullApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.ZipkinApplication (1)" />
       <item itemvalue="Spring Boot.ZipkinApplication (2)" />
       <item itemvalue="Spring Boot.AdminApplication (1)" />
       <item itemvalue="Spring Boot.AdminApplication (2)" />
       <item itemvalue="Spring Boot.SecurityApplication" />
-      <item itemvalue="Spring Boot.ZullApplication" />
-      <item itemvalue="Spring Boot.GatewayApplication" />
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -508,7 +508,7 @@
       <workItem from="1534121818319" duration="6344000" />
       <workItem from="1534208698057" duration="12857000" />
       <workItem from="1534295039737" duration="11237000" />
-      <workItem from="1534312630368" duration="138000" />
+      <workItem from="1534312630368" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="Spring Clouds 学习">
       <created>1534305463749</created>
@@ -521,13 +521,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88805000" />
+    <option name="totallyTimeSpent" value="89022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32792208" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.27558637" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -545,7 +545,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.29469123" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4989339" visible="true" weight="0.32792208" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33955225" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
