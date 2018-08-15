@@ -1,0 +1,11 @@
+server:
+  port: 6000
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: 163_route
+        uri: http://www.163.com/
+        predicates:
+        - Path=/163
+# 暂时没有成功。后面再试

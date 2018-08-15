@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+      name: "admin"
+      password: "admin"
+eureka:
+  instance:
+    metadata-map:
+      user.name: "admin"
+      user.password: "admin"

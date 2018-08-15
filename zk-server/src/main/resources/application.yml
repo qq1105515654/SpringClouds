@@ -1,0 +1,10 @@
+server:
+  port: 8800
+spring:
+  application:
+    name: zookeeper-service
+  cloud:
+    zookeeper:
+      discovery:
+        root: spring-cloud-service
+      connect-string: localhost:2181

@@ -1,0 +1,27 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/qq1105515654/forezp
+          search-paths: SpringcloudConfig
+          username: 1105515654@qq.com
+          password: MiSS*+120
+        #native:
+        #  search-locations: classpath:/shared   配置读取 本地类路径下的 资源文件
+      label: master
+  application:
+    name: config-server
+server:
+  port: 8769
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8750/eureka/
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

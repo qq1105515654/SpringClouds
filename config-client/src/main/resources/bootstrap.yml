@@ -1,0 +1,30 @@
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8750/eureka/
+spring:
+  application:
+    name: config-client
+  cloud:
+    config:
+      #uri: localhost:8769 连接 config-server  读取本地配置文件
+      fail-fast: true
+      discovery:
+        enabled: true
+        service-id: config-server
+      profile: dev
+    bus:
+      trace:
+        enabled: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
