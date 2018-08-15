@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin-client-one" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-feign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-gateway-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-monitor-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-zuul-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbon-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trace-b" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zk-server" charset="UTF-8" />
+  </component>
+</project>

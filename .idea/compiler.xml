@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="admin-client-one" />
+        <module name="admin-eureka" />
+        <module name="admin-server" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="config-server2" />
+        <module name="eureka-client" />
+        <module name="eureka-feign-client" />
+        <module name="eureka-gateway-client" />
+        <module name="eureka-monitor-client" />
+        <module name="eureka-server" />
+        <module name="eureka-zuul-client" />
+        <module name="ribbon-service" />
+        <module name="spring-boot-security" />
+        <module name="trace-a" />
+        <module name="trace-b" />
+        <module name="zipkin-eureka" />
+        <module name="zipkin-user" />
+        <module name="zipkin-zuul" />
+        <module name="zk-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-client-one" target="1.8" />
+      <module name="admin-eureka" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server2" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-feign-client" target="1.8" />
+      <module name="eureka-gateway-client" target="1.8" />
+      <module name="eureka-monitor-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-zuul-client" target="1.8" />
+      <module name="ribbon-service" target="1.8" />
+      <module name="spring-boot-security" target="1.8" />
+      <module name="trace-a" target="1.8" />
+      <module name="trace-b" target="1.8" />
+      <module name="zipkin-eureka" target="1.8" />
+      <module name="zipkin-user" target="1.8" />
+      <module name="zipkin-zuul" target="1.8" />
+      <module name="zk-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

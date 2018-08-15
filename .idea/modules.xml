@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringClouds.iml" filepath="$PROJECT_DIR$/.idea/SpringClouds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-client-one/admin-client-one.iml" filepath="$PROJECT_DIR$/admin-client-one/admin-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-eureka/admin-eureka.iml" filepath="$PROJECT_DIR$/admin-eureka/admin-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server2/config-server2.iml" filepath="$PROJECT_DIR$/config-server2/config-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-gateway-client/eureka-gateway-client.iml" filepath="$PROJECT_DIR$/eureka-gateway-client/eureka-gateway-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-monitor-client/eureka-monitor-client.iml" filepath="$PROJECT_DIR$/eureka-monitor-client/eureka-monitor-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-zuul-client/eureka-zuul-client.iml" filepath="$PROJECT_DIR$/eureka-zuul-client/eureka-zuul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-service/ribbon-service.iml" filepath="$PROJECT_DIR$/ribbon-service/ribbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" filepath="$PROJECT_DIR$/spring-boot-security/spring-boot-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-server/trace-a.iml" filepath="$PROJECT_DIR$/zipkin-server/trace-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trace-b/trace-b.iml" filepath="$PROJECT_DIR$/trace-b/trace-b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-eureka/zipkin-eureka.iml" filepath="$PROJECT_DIR$/zipkin-eureka/zipkin-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-user/zipkin-user.iml" filepath="$PROJECT_DIR$/zipkin-user/zipkin-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkin-zuul/zipkin-zuul.iml" filepath="$PROJECT_DIR$/zipkin-zuul/zipkin-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zk-server/zk-server.iml" filepath="$PROJECT_DIR$/zk-server/zk-server.iml" />
+    </modules>
+  </component>
+</project>
